@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/gh-pages/static/css/main.4ec61d9c.css",
-    "main.js": "/gh-pages/static/js/main.cf91cae2.js",
-    "static/js/453.d084d8fa.chunk.js": "/gh-pages/static/js/453.d084d8fa.chunk.js",
-    "static/media/hari-image.jpg": "/gh-pages/static/media/hari-image.f1a7daba77ef3e53ca7b.jpg",
-    "index.html": "/gh-pages/index.html",
-    "main.4ec61d9c.css.map": "/gh-pages/static/css/main.4ec61d9c.css.map",
-    "main.cf91cae2.js.map": "/gh-pages/static/js/main.cf91cae2.js.map",
-    "453.d084d8fa.chunk.js.map": "/gh-pages/static/js/453.d084d8fa.chunk.js.map"
+    "main.css": "/react-gh-pages/static/css/main.4ec61d9c.css",
+    "main.js": "/react-gh-pages/static/js/main.1bf55162.js",
+    "static/js/453.d084d8fa.chunk.js": "/react-gh-pages/static/js/453.d084d8fa.chunk.js",
+    "static/media/hari-image.jpg": "/react-gh-pages/static/media/hari-image.f1a7daba77ef3e53ca7b.jpg",
+    "index.html": "/react-gh-pages/index.html",
+    "main.4ec61d9c.css.map": "/react-gh-pages/static/css/main.4ec61d9c.css.map",
+    "main.1bf55162.js.map": "/react-gh-pages/static/js/main.1bf55162.js.map",
+    "453.d084d8fa.chunk.js.map": "/react-gh-pages/static/js/453.d084d8fa.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.4ec61d9c.css",
-    "static/js/main.cf91cae2.js"
+    "static/js/main.1bf55162.js"
   ]
 }
